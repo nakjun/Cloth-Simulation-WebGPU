@@ -22,6 +22,10 @@ $npm run start #start react app
 ## Experimental Videos
 [![videos](https://img.youtube.com/vi/AXY6gcJpZYQ/0.jpg)](https://youtu.be/AXY6gcJpZYQ)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nakjun/Cloth-Simulation-WebGPU&type=Date)](https://www.star-history.com/#nakjun/Cloth-Simulation-WebGPU&Date)
+
 ## Cite This Projects
 ※ This project is currently being prepared for submission to a peer-reviewed journal.
 ```bibtex
